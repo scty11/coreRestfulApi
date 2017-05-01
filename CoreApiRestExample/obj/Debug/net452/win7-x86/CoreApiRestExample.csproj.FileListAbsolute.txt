@@ -1,0 +1,5 @@
+C:\Users\scottyboi29\Documents\CoreApiRestExample\CoreApiRestExample\CoreApiRestExample\bin\Debug\net452\win7-x86\CoreApiRestExample.deps.json
+C:\Users\scottyboi29\Documents\CoreApiRestExample\CoreApiRestExample\CoreApiRestExample\bin\Debug\net452\win7-x86\CoreApiRestExample.runtimeconfig.json
+C:\Users\scottyboi29\Documents\CoreApiRestExample\CoreApiRestExample\CoreApiRestExample\bin\Debug\net452\win7-x86\CoreApiRestExample.runtimeconfig.dev.json
+C:\Users\scottyboi29\Documents\CoreApiRestExample\CoreApiRestExample\CoreApiRestExample\obj\Debug\net452\win7-x86\CoreApiRestExample.csproj.CoreApiRestExample.exe.config
+C:\Users\scottyboi29\Documents\CoreApiRestExample\CoreApiRestExample\CoreApiRestExample\obj\Debug\net452\win7-x86\CoreApiRestExample.AssemblyInfo.cs
